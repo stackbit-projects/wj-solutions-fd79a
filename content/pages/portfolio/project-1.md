@@ -2,7 +2,7 @@
 title: Project Title 1
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: /images/ai1.jfif
+thumb_image: /images/istockphoto-1146854142-612x612.jpg
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
 image_alt: 'White, black, and red shoe sole'
