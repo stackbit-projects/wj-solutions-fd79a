@@ -4,7 +4,7 @@ subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
 thumb_image_alt: An orange on a blue background
-image: /images/js1.png
+image: /images/robot-android-papel-pintado-1280x800_3.jpg
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
